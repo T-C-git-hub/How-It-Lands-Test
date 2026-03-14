@@ -9,4 +9,4 @@ The test measures (across both cohorts): perceived category of the specimen, per
 
 Input: above-the fold web-page or (up-to) 3 paragraphs of text.
 
-Output: single-pass, no changes prescribed, see How-It-Landed (sample output).pdf
+Output: single-pass, no changes prescribed, see [How-It-Landed (sample output).pdf](https://github.com/T-C-git-hub/How-It-Lands-Test/blob/main/How-It-Landed%20(sample%20output).pdf)
